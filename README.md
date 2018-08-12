@@ -7,3 +7,5 @@ Agung
 Karnando Huang
 Rani
 Ricky Kennedy
+Ricky Kennedy
+Kevin Jonathan
