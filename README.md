@@ -6,3 +6,4 @@ Ghozi A.W.
 Agung
 Karnando Huang
 Rani
+Ricky Kennedy
