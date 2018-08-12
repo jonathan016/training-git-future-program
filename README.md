@@ -2,3 +2,4 @@
 Jonathan
 Arditama
 Oliver Sebastian Kindy
+Ricky Kennedy
